@@ -61,7 +61,8 @@ a:hover {
 	margin-bottom: 20px;
 }
 
-
+/* essa tag "postagens" só foi usada, senão o conteudo da imagem
+pra baixo, ocuparia  tela inteira e não o espaço branco*/
 
 #postagens {
 	width: 680px;
